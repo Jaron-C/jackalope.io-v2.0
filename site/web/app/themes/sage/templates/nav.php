@@ -15,7 +15,7 @@
       <a class="navbar-brand" href="<?= esc_url(home_url('/')); ?>">JC</a>
     </div>
 
-    <nav class="collapse navbar-collapse" role="navigation">
+    <nav id="menu-jc-menu" class="collapse navbar-collapse" role="navigation">
       <?php
       if (has_nav_menu('primary_navigation')) :
         wp_nav_menu(['theme_location' => 'primary_navigation', 'walker' => new wp_bootstrap_navwalker(), 'menu_class' => 'nav navbar-nav']);
