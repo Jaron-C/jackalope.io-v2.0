@@ -35,7 +35,7 @@
 
 <!-- Gravity Form -->
 <div class="contact-form text-center">
-  <div class="contact-form"><?php gravity_form( 2, false, true, false, true); ?></div>
+  <div class="contact-form"><?php gravity_form( 1, false, true, false, true); ?></div>
 </div>
 
 <!-- Security Reminder -->

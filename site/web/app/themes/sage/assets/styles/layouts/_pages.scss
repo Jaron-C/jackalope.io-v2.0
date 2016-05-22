@@ -188,7 +188,7 @@
     max-width: 98%;
   }
 
-  .gform_field {
+  .gform_fields {
     margin-top: 10px;
   }
 /* Name Field */
@@ -216,5 +216,11 @@
     padding: 10px 176px;
   }
 
+  #gform_fields_1 {
+    text-align: center;
+  }
 
+  #gform_submit_button_1 {
+    .img-responsive;
+  }
 /* Button */
