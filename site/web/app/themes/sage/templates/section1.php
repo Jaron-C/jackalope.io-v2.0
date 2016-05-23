@@ -11,6 +11,7 @@
 <!-- Add Praise Text -->
 <div class="praise-text">
   <div style="text-align: center;">Testimonials</div>
+  <div style="text-align: center;"><em>See what a few previous clients had to say..</em></div>
 </div>
 
 <!-- praises.svg -->
