@@ -14,7 +14,7 @@ users:
       - sudo
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
-      # - https://github.com/username.keys
+      - https://github.com/Jaron-C.keys
 
 web_user: web
 web_group: www-data
