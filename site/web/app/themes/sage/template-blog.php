@@ -13,7 +13,7 @@
 </div>
 
 <div class="blog-info text-center">
-  <h4>Everything from Tutorials to Project Blueprints and Notes!</h4>
+  <h4>Everything from Tutorials to Project Blueprints and More!</h4>
 </div>
 
 <!-- Featured Category -->

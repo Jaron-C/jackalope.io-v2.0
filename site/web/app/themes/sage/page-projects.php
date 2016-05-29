@@ -8,7 +8,7 @@
 </div>
 
 <div class="project-info text-center">
-  <h4>Intro/Logo Animations, Commercials, Workflow Timelapse, Vlogs and more!</h4>
+  <h4>Motion Graphics | Lifestyle Video</h4>
 </div>
 
 
