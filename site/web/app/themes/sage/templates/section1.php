@@ -8,10 +8,10 @@
   </div>
 </div>
 
-<!-- Add Praise Text -->
+<!-- Add Praise Text
 <div class="praise-text">
   <div style="text-align: center;"><em>See what a few previous clients had to say..</em></div>
-</div>
+</div> -->
 
 <!-- praises.svg -->
 <div class="praises text-center">
