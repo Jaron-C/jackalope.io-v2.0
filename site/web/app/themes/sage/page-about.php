@@ -18,12 +18,13 @@
 <!-- Description Text -->
   <div class="col-md-6">
     <div class="about-copy text-center">
-      <div style="text-align: center;"><em>"A <strong>Motion Graphics Artist</strong> and <strong>Website Designer.</em></strong></div>
-      <div style="text-aling: center;"><em>As a Freelancer, i've worked with a variety of companies.</em></div>
-      <div style="text-aling: center;"><em>Ranging from <strong>Adobe Systems </strong>to small start-ups.</em></div>
-      <div style="text-align: center;"><em>I also do <strong>Creative Design</strong> for <strong>Jackalope Media</strong>.</em></div>
+      <div style="text-align: center;"><em>"I am a <strong>motion graphics</strong> and <strong>website designer.</em></strong></div>
+      <div style="text-aling: center;"><em>Based out of <strong>Salt Lake City, Utah.</strong></em></div>
+      <div style="text-aling: center;"><em>I've worked with a variety of companies,</em></div>
+      <div style="text-aling: center;"><em>ranging from <strong>Adobe Systems </strong>to small start-ups</em>.</div>
+      <div style="text-align: center;"><em>I do <strong>creative design</strong> for <strong>Jackalope Media</strong>.</em></div>
       <div style="text-align: center;">
-        <div><em>And am the Co-Founder of <strong>Brake The Cycle</strong>. A local Utah Organization,</em></div>
+        <div><em>And am the Founder of <strong>Brake The Cycle</strong>, a local Utah Organization,</em></div>
         <div><em>in support of suicide prevention".</em></div>
       </div>
     </div>
