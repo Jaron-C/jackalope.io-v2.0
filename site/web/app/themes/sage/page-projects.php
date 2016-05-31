@@ -8,7 +8,7 @@
 </div>
 
 <div class="project-info text-center">
-  <h4>Motion Graphics | Lifestyle Video</h4>
+  <h4>Motion Graphics | Lifestyle Videos</h4>
 </div>
 
 

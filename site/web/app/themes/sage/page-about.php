@@ -18,14 +18,14 @@
 <!-- Description Text -->
   <div class="col-md-6">
     <div class="about-copy text-center">
-      <div style="text-align: center;"><em>"I am a <strong>motion graphics</strong> and <strong>website designer.</em></strong></div>
-      <div style="text-aling: center;"><em>Based out of <strong>Salt Lake City, Utah.</strong></em></div>
+      <div style="text-align: center;"><em>"I am a <strong>motion graphics</strong> and <strong>website designer</em></strong>,</div>
+      <div style="text-aling: center;"><em>based out of <strong>Salt Lake City, Utah.</strong></em></div>
       <div style="text-aling: center;"><em>I've worked with a variety of companies,</em></div>
       <div style="text-aling: center;"><em>ranging from <strong>Adobe Systems </strong>to small start-ups</em>.</div>
       <div style="text-align: center;"><em>I do <strong>creative design</strong> for <strong>Jackalope Media</strong>.</em></div>
       <div style="text-align: center;">
         <div><em>And am the Founder of <strong>Brake The Cycle</strong>, a local Utah Organization,</em></div>
-        <div><em>in support of suicide prevention".</em></div>
+        <div><em>in support of suicide awareness".</em></div>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@
 <!-- Price Sheet Text -->
 <div class="about-copy-2">
   <div style="text-align: center;">In need of an Animated Video?</div>
-  <div style="text-align: center; font-size: 20px;"><em>Take a look at my competitive prices below!</em></div>
+  <div style="text-align: center; font-size: 20px;"><em>Have a look at my competitive prices below!</em></div>
 </div>
 
 <!-- pricing.svg  -->
@@ -43,7 +43,7 @@
 
 
 <div class="about-copy-3">
-  <div style="text-align: center;">Check out my Projects Page for examples!</div>
+  <div style="text-align: center;">Check out the Projects Page to view my work!</div>
   <div style="text-align: center; font-size: 20px;"><em>Animations, Vlogs, Social Videos and more!</em></div>
 </div>
 
