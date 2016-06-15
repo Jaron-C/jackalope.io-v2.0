@@ -13,7 +13,7 @@
   <div style="text-align: center;"><em>See what a few previous clients had to say..</em></div>
 </div> -->
 
-<!-- praises.svg -->
+<!-- praises.svg
 <div class="praises text-center">
   <svg class="praises img-responsive" width="670" height="316"><?php get_template_part( 'assets/svg/inline', 'praises.svg' ); ?></svg>
-</div>
+</div>-->
