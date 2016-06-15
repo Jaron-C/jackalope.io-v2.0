@@ -30,6 +30,12 @@
     </div>
   </div>
 </div>
+
+<!-- Praises SVG -->
+<div class="praises text-center">
+  <svg class="praises img-responsive" width="670" height="316"><?php get_template_part( 'assets/svg/inline', 'praises.svg' ); ?></svg>
+</div>
+
 <!-- Price Sheet Text -->
 <div class="about-copy-2">
   <div style="text-align: center;">In need of an Animated Video?</div>
