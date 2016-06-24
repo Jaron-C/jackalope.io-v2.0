@@ -18,7 +18,10 @@
     }
   }
   .video {
-    margin-top: 50px;
+    margin-top: 60px;
+    p {
+      color: #6da2a3;
+      }
     }
   }
 
@@ -55,7 +58,7 @@
 
   /* praises.svg */
     .praises {
-      margin-top: 120px;
+      margin-top: 100px;
       svg {
         margin: auto;
         padding: 0 24px;
@@ -171,6 +174,9 @@
 
   .hours {
     margin-top: 5px;
+    p {
+      color: #6da2a3;
+    }
   }
 
   .contact-inquire {
