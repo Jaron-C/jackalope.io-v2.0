@@ -22,31 +22,6 @@
     }
   }
 
-/* Praise Section */
-  .praise-text {
-    /*margin-top: 50px;
-    font-family: Roboto-Light;
-    font-size: 40px;
-    color: #6da2a3; */
-  em {
-    font-size: 20px;
-    font-family: Roboto-Thin;
-    }
-  }
-
-/* praises.svg */
-  .praises {
-    margin-top: 50px;
-    svg {
-      margin: auto;
-      padding: 0 24px;
-      @media (min-width: $screen-sm-min) {
-        padding: 0;
-      }
-    }
-  }
-
-
 /*  ABOUT PAGE */
 /* Image/Name/Description */
   .photo {
@@ -66,10 +41,34 @@
   color: #353535;
   }
 
+  /* Praise Section */
+    .praise-text {
+      /*margin-top: 50px;
+      font-family: Roboto-Light;
+      font-size: 40px;
+      color: #6da2a3; */
+    em {
+      font-size: 20px;
+      font-family: Roboto-Thin;
+      }
+    }
+
+  /* praises.svg */
+    .praises {
+      margin-top: 120px;
+      svg {
+        margin: auto;
+        padding: 0 24px;
+        @media (min-width: $screen-sm-min) {
+          padding: 0;
+        }
+      }
+    }
+
 /* Pricing Sheet */
 /* Price Sheet Text */
   .about-copy-2 {
-    margin-top: 80px;
+    margin-top: 100px;
     line-height: 1.2em;
     font-size: 30px;
     font-family: Roboto-Light;
@@ -78,7 +77,7 @@
 
 /* pricing svg */
   .pricing {
-    margin-top: -15px;
+    margin-top: 30px;
   svg {
     margin: auto;
     padding: 0px;
@@ -90,7 +89,7 @@
 
 /* Projects CTA */
   .about-copy-3 {
-    margin-top: -10px;
+    margin-top: 30px;
     line-height: 1.2em;
     font-size: 20px;
     font-family: Roboto-Light;
@@ -102,7 +101,7 @@
 
 /* Project Inquiry Text */
   .about-inquire {
-    margin-top: 30px;
+    margin-top: 50px;
     letter-spacing: 0.20px;
   }
 
@@ -171,11 +170,11 @@
   }
 
   .hours {
-    margin-top: 20px;
+    margin-top: 5px;
   }
 
   .contact-inquire {
-    margin-top: 40px;
+    margin-top: 80px;
     letter-spacing: 0.20px;
   }
 
