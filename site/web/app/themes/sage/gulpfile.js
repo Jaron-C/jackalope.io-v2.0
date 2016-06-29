@@ -20,6 +20,20 @@ var sass         = require('gulp-sass');
 var sourcemaps   = require('gulp-sourcemaps');
 var uglify       = require('gulp-uglify');
 
+// CLI options
+var enabled = {
+  // Enable static asset revisioning when `--production`
+  rev: argv.production,
+  // Disable source maps when `--production`
+  maps: !argv.production,
+  // Fail styles task on error when `--production`
+  failStyleTask: argv.production,
+  // Fail due to JSHint warnings only when `--production`
+  failJSHint: argv.production,
+  // Strip debug statments from javascript when `--production`
+  stripJSDebug: argv.production
+};
+
 var cssTasks = function(filename) {
   return lazypipe()
     .pipe(function() {
@@ -86,20 +100,6 @@ var globs = manifest.globs;
 // - `project.js` - Array of first-party JS assets.
 // - `project.css` - Array of first-party CSS assets.
 var project = manifest.getProjectGlobs();
-
-// CLI options
-var enabled = {
-  // Enable static asset revisioning when `--production`
-  rev: argv.production,
-  // Disable source maps when `--production`
-  maps: !argv.production,
-  // Fail styles task on error when `--production`
-  failStyleTask: argv.production,
-  // Fail due to JSHint warnings only when `--production`
-  failJSHint: argv.production,
-  // Strip debug statments from javascript when `--production`
-  stripJSDebug: argv.production
-};
 
 // Path to the compiled assets manifest in the dist directory
 var revManifest = path.dist + 'assets.json';
