@@ -55,5 +55,10 @@
 
 <!-- Bottom Text -->
 <div class="about-inquire">
-<div style="text-align: center;"><h4>For project inquiries, please fill out the form on the Contact Page</h4></div>
+<div style="text-align: center;"><h4>For project inquiries, please fill out the form below</h4></div>
+</div>
+
+<!-- Gravity Form (About Page)-->
+<div class="contact-form-2 text-center">
+  <div class="contact-form-2"><?php gravity_form( 2, false, true, false, true); ?></div>
 </div>
