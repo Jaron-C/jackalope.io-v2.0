@@ -80,7 +80,7 @@
 
 /* pricing svg */
   .pricing {
-    margin-top: 30px;
+    margin-top: 10px;
   svg {
     margin: auto;
     padding: 0px;
@@ -119,18 +119,30 @@
 /* Videos */
   .category-1 {
     margin-top: 50px;
+    p {
+      color: #6da2a3;
+    }
   }
 
   .category-2 {
     margin-top: 50px;
+    p {
+      color: #6da2a3;
+    }
   }
 
   .category-3 {
     margin-top: 50px;
+    p {
+      color: #6da2a3;
+    }
   }
 
   .category-4 {
     margin-top: 50px;
+    p {
+      color: #6da2a3;
+    }
   }
 
   .wistia_playlist {
@@ -210,6 +222,11 @@
     text-align: center;
     margin-top: 20px;
   }
+/* Message Field */
+  .message {
+    text-align: center;
+    margin-top: 20px;
+  }
 /* Both Field labels */
   .gfield_label {
     letter-spacing: 0.50em;
@@ -228,6 +245,7 @@
 
   #gform_fields_1 {
     text-align: center;
+    width: 50%;
   }
 
 /* Button */
