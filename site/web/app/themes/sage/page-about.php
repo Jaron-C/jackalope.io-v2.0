@@ -54,7 +54,7 @@
 
 <!-- Gravity Form (About Page)-->
 <div class="contact-form-2 text-center">
-  <div class="contact-form-2"><?php gravity_form( 2, false, true, false, true); ?></div>
+  <div class="contact-form-2"><?php gravity_form( 1, false, true, false, true); ?></div>
 </div>
 
 <div class="about-copy-3">
