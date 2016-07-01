@@ -3,5 +3,5 @@
   </div>
     <?php dynamic_sidebar('sidebar-footer'); ?>
 <div class="footer-creator">
-  <p style="text-align: center;">©<em>Created with love by </em><strong>Jaron Call</strong></p>
+  <p style="text-align: center;">©<em>Created by </em><strong>Jaron Call</strong></p>
 </div>
