@@ -18,13 +18,13 @@
 <!-- Description Text -->
   <div class="col-md-6">
     <div class="about-copy text-center">
-      <div style="text-align: center;"><em>"I am a <!--<strong>website</strong> and --><strong>motion graphics designer</em></strong>,</div>
-      <div style="text-aling: center;"><em>based out of <strong>Salt Lake City, Utah.</strong></em></div>
+      <div style="text-align: center;"><em>"I am a <!--<strong>website</strong> and -->motion graphics designer</em>,</div>
+      <div style="text-aling: center;"><em>based out of Salt Lake City, Utah.</em></div>
       <div style="text-aling: center;"><em>I've worked with a variety of companies,</em></div>
-      <div style="text-aling: center;"><em>ranging from <strong>Adobe Systems </strong>to YouTube vlogs</em>.</div>
-      <div style="text-align: center;"><em>I also do <strong>creative design</strong> for <strong>Jackalope Media</strong>.</em></div>
+      <div style="text-aling: center;"><em>ranging from Adobe Systems to YouTube vlogs</em>.</div>
+      <div style="text-align: center;"><em>I also do creative design for Jackalope Media.</em></div>
       <div style="text-align: center;">
-        <div><em>And am the Founder of <strong>Brake The Cycle</strong>, a local Utah Organization,</em></div>
+        <div><em>And am the Founder of Brake The Cycle, a local Utah Organization,</em></div>
         <div><em>in support of suicide awareness".</em></div>
       </div>
     </div>
