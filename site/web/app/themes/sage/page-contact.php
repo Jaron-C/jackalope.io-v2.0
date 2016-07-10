@@ -26,9 +26,9 @@
 </div>
 </div>
 
-<!-- Availability Hours -->
+<!-- Availability Hours
 <div class="hours text-center">
-  <p>Available 9am-6pm on weekdays</p>
+  <p>Available 9am-6pm on weekdays</p>-->
 
 <!-- GF Form Text -->
 <h4 style="text-align: center;" class="contact-inquire">For project inquiries, please fill out the form below!</h4>
