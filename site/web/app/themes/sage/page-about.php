@@ -24,8 +24,8 @@
       <div style="text-aling: center;"><em>ranging from Adobe Systems to YouTube vlogs</em>.</div>
       <div style="text-align: center;"><em>I also do creative design for Jackalope Media.</em></div>
       <div style="text-align: center;">
-        <div><em>And am the Founder of Brake The Cycle, a local Utah Organization,</em></div>
-        <div><em>in support of suicide awareness".</em></div>
+        <div><em>And am the Founder of Brake The Cycle, a local Utah</em></div>
+        <div><em>Organization, in support of suicide awareness".</em></div>
       </div>
     </div>
   </div>
