@@ -1,23 +1,33 @@
-// scss input Roboto-Regular
-/* @import font-face("Roboto", ../../../fonts/Roboto);*/
+// FONTS //
 
-// css output Roboto
+// scss input Roboto-Regular
+@import font-face("Roboto-Regular-webfont", ../../../fonts/Roboto-Regular-webfont);
+
+// css output Roboto-Regular-webfont
 @font-face {
   font-family: "Roboto-Regular";
-  src: url('../../../fonts/Roboto-Regular.ttf') format("ttf"),
-    /* url('../../../fonts/Roboto-Regular.woff') format("woff"); */
+  src: /* url('../../../fonts/Roboto-Regular.ttf') format("ttf"), */
+       url('../../../fonts/Roboto-Regular-webfont.woff') format("woff");
 }
 
+// scss input Roboto-Thin-webfont
+@import font-face("Roboto-Thin-webfont", ../../../fonts/Roboto-Thin-webfont);
+
+//css output Roboto-Thin-webfont
 @font-face {
   font-family: "Roboto-Thin";
-  src: url('../../../fonts/Roboto-Thin.ttf') format("ttf"),
-    /* url('../../../fonts/Roboto-Thin.woff') format("woff"); */
+  src: /* url('../../../fonts/Roboto-Thin.ttf') format("ttf"), */
+       url('../../../fonts/Roboto-Thin-webfont.woff') format("woff");
 }
 
+// scss input Roboto-Light-webfont
+@import font-face("Roboto-Light-webfont", ../../../fonts/Roboto-Light-webfont);
+
+//css output Roboto-Light-webfont
 @font-face {
   font-family: "Roboto-Light";
-  src: url('../../../fonts/Roboto-Light.ttf') format("ttf"),
-    /* url('../../../fonts/Roboto-Light.woff') format("woff"); */
+  src: /* url('../../../fonts/Roboto-Light.ttf') format("ttf"), */
+       url('../../../fonts/Roboto-Light-webfont.woff') format("woff");
 }
 
 body {
