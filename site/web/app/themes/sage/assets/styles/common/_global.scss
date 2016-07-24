@@ -1,4 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+// scss input Roboto-Regular
+/* @import font-face("Roboto", ../../../fonts/Roboto);*/
+
+// css output Roboto-Regular
+@font-face {
+  font-family: "Roboto";
+  src: url('../../../fonts/Roboto-Regular') format("ttf"),
+       url('../../../fonts/Roboto-Regular') format("eot");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url('../../../fonts/Roboto-Thin') format("ttf"),
+       url('../../../fonts/Roboto-Thin') format("eot");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url('../../../fonts/Roboto-Light') format("ttf"),
+       url('../../../fonts/Roboto-Light') format("eot");
+}
 
 body {
   font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
