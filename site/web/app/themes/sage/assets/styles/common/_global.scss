@@ -1,23 +1,23 @@
 // scss input Roboto-Regular
 /* @import font-face("Roboto", ../../../fonts/Roboto);*/
 
-// css output Roboto-Regular
+// css output Roboto
 @font-face {
   font-family: "Roboto";
-  src: url('../../../fonts/Roboto-Regular') format("ttf"),
-       url('../../../fonts/Roboto-Regular') format("eot");
+  src: url('../../../fonts/Roboto-Regular.ttf') format("ttf"),
+       url('../../../fonts/Roboto-Regular.woff') format("woff");
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url('../../../fonts/Roboto-Thin') format("ttf"),
-       url('../../../fonts/Roboto-Thin') format("eot");
+  src: url('../../../fonts/Roboto-Thin.ttf') format("ttf"),
+       url('../../../fonts/Roboto-Thin.woff') format("woff");
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url('../../../fonts/Roboto-Light') format("ttf"),
-       url('../../../fonts/Roboto-Light') format("eot");
+  src: url('../../../fonts/Roboto-Light.ttf') format("ttf"),
+       url('../../../fonts/Roboto-Light.woff') format("woff");
 }
 
 body {
