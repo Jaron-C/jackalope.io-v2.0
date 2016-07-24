@@ -25,6 +25,14 @@
        url("../../dist/fonts/Roboto-Thin-webfont.svg") format("svg");
 }
 
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url("../../dist/fonts/Roboto-Bold-webfont.eot?") format("embedded-opentype"),
+       url("../../dist/fonts/Roboto-Bold-webfont.woff") format(".woff"),
+       url("../../dist/fonts/Roboto-Bold-webfont.ttf") format("truetype"),
+       url("../../dist/fonts/Roboto-Bold-webfont.svg") format("svg");
+}
+
 body {
   font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
