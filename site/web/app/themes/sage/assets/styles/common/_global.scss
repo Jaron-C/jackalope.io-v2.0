@@ -9,6 +9,7 @@
        url("../../dist/fonts/Roboto-Regular-webfont.svg") format("svg");
 }
 
+// CSS Output for Roboto Light
 @font-face {
   font-family: 'Roboto-Light';
   src: url("../../dist/fonts/Roboto-Light-webfont.eot?") format("embedded-opentype"),
@@ -17,12 +18,22 @@
        url("../../dist/fonts/Roboto-Light-webfont.svg") format("svg");
 }
 
+// CSS Output for Roboto Thin
 @font-face {
   font-family: 'Roboto-Thin';
   src: url("../../dist/fonts/Roboto-Thin-webfont.eot?") format("embedded-opentype"),
        url("../../dist/fonts/Roboto-Thin-webfont.woff") format(".woff"),
        url("../../dist/fonts/Roboto-Thin-webfont.ttf") format("truetype"),
        url("../../dist/fonts/Roboto-Thin-webfont.svg") format("svg");
+}
+
+// CSS Output for Roboto Bold
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url("../../dist/fonts/Roboto-Bold-webfont.eot?") format("embedded-opentype"),
+       url("../../dist/fonts/Roboto-Bold-webfont.woff") format(".woff"),
+       url("../../dist/fonts/Roboto-Bold-webfont.ttf") format("truetype"),
+       url("../../dist/fonts/Roboto-Bold-webfont.svg") format("svg");
 }
 
 body {
