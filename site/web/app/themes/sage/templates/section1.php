@@ -3,7 +3,7 @@
     <svg class="about-list img-responsive" width="600" height="166"><?php get_template_part( 'assets/svg/inline', 'about-list.svg' ); ?></svg>
   </div>
   <div class="video text-center">
-    <p>Take a look!</p>
+    <p>Have a look!</p>
   <script src="//fast.wistia.com/embed/medias/z4r3pls1tl.jsonp" async></script><script src="//fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_z4r3pls1tl popover=true popoverAnimateThumbnail=true" style="display:inline-block;height:84px;width:150px">&nbsp;</span>
   </div>
 </div>
