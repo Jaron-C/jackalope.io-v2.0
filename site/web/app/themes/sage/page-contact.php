@@ -13,8 +13,8 @@
 <div class="row text-center">
   <div class="col-xs-12 col-md-6"><h3 style="text-align: center; 16dpx;">Social Media</h3>
     &nbsp;
-    <p style="text-center"><strong>Instagram: </strong><em>@jaroninthesis</em></p>
-    <p style="text-center"><strong>Twitter: </strong><em>@JaronimoCall</em>
+    <p style="text-center"><strong>Instagram: </strong><em><a href="https://www.instagram.com/jaroninthesis/" target="_blank">@jaroninthesis</a></em></p>
+    <p style="text-center"><strong>Twitter: </strong><em><a href="https://twitter.com/JaronimoCall" target="_blank">@JaronimoCall</a></em>
   </div>
 
 <!-- Work Contact -->
