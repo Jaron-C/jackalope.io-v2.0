@@ -36,6 +36,11 @@
   <svg class="praises img-responsive" width="670" height="316"><?php get_template_part( 'assets/svg/inline', 'praises.svg' ); ?></svg>
 </div>
 
+<!-- Skill Set -->
+<div class="skillset text-center">
+  <svg class="skillset img-responsive" width="1139" height="345"><?php get_template_part( 'assets/svg/inline', 'skillset.svg' ); ?></svg>
+</div>
+
 <!-- Price Sheet Text -->
 <div class="about-copy-2">
   <div style="text-align: center;">In need of an Animated Video?</div>
