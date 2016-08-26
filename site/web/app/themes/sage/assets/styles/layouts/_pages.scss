@@ -44,6 +44,18 @@
   color: #353535;
   }
 
+/* SkillSet SVG */
+  .skillset {
+    margin-top: 100px;
+    svg {
+      margin: auto;
+      padding: 0 24px;
+      @media (min-width: $screen-sm-min) {
+        padding: 0;
+      }
+    }
+  }
+
   /* Praise Section */
     .praise-text {
       /*margin-top: 50px;
@@ -56,20 +68,10 @@
       }
     }
 
-  /* praises.svg */
+  /* Praises SVG */
     .praises {
       margin-top: 100px;
-      svg {
-        margin: auto;
-        padding: 0 24px;
-        @media (min-width: $screen-sm-min) {
-          padding: 0;
-        }
-      }
-    }
-
-    .skillset {
-      margin-top: 100px;
+      margin-bottom: 100px;
       svg {
         margin: auto;
         padding: 0 24px;
@@ -89,7 +91,7 @@
     color: #6da2a3;
   }
 
-/* pricing svg */
+/* Pricing SVG */
   .pricing {
     margin-top: 0px;
   svg {
@@ -98,9 +100,6 @@
     @media (min-width: $screen-sm-min) {
       padding: 0;
     }
-  }
-  .st1 {
-    fill: #859f24;
   }
 }
 

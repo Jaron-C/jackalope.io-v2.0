@@ -41,16 +41,16 @@
   <svg class="praises img-responsive" width="670" height="316"><?php get_template_part( 'assets/svg/inline', 'praises.svg' ); ?></svg>
 </div>
 
-<!-- Price Sheet Text -->
+<!-- Price Sheet Text 
 <div class="about-copy-2">
   <div style="text-align: center;">In need of an Animated Video?</div>
   <div style="text-align: center; font-size: 20px;"><em>Have a look at my competitive prices below!</em></div>
-</div>
+</div> -->
 
-<!-- pricing.svg  -->
+<!-- pricing.svg
 <div class="pricing text-center">
   <svg class="pricing img-responsive" width="626" height="420"><?php get_template_part( 'assets/svg/inline', 'pricing.svg' ); ?></svg>
-</div>
+</div> -->
 
 <!-- Bottom Text -->
 <div class="about-inquire">
