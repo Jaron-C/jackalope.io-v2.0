@@ -33,7 +33,7 @@
 
 <!-- Skill Set -->
 <div class="skillset text-center">
-  <svg class="skillset img-responsive" width="1139" height="345"><?php get_template_part( 'assets/svg/inline', 'skillset.svg' ); ?></svg>
+  <svg class="skillset img-responsive" width="950" height="250"><?php get_template_part( 'assets/svg/inline', 'skillset.svg' ); ?></svg>
 </div>
 
 <!-- Praises SVG -->
@@ -41,7 +41,7 @@
   <svg class="praises img-responsive" width="670" height="316"><?php get_template_part( 'assets/svg/inline', 'praises.svg' ); ?></svg>
 </div>
 
-<!-- Price Sheet Text 
+<!-- Price Sheet Text
 <div class="about-copy-2">
   <div style="text-align: center;">In need of an Animated Video?</div>
   <div style="text-align: center; font-size: 20px;"><em>Have a look at my competitive prices below!</em></div>
